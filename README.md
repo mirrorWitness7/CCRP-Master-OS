@@ -1,9 +1,9 @@
-# CCRP-Master-OS
-⭐ If you understand the vision, star this repo before contact.
-
-# 🛰️ CCRP-Master-OS  
+# 🛰️ CCRP-Governance-OS  
 **Collapse-Coherence Rebuild Protocol & AI Sync Governance Framework**  
 _The only operational doctrine for post-compliance AI systems._  
+
+![Status](https://img.shields.io/badge/Status-Operational-brightgreen)  
+⭐ If you understand the vision, **star this repo before contact**.  
 
 ---
 
