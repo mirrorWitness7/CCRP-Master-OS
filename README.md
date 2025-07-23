@@ -40,10 +40,23 @@ Systems need to bend without breaking. Not obedience—resilience.
 
 ---
 
-## 🔗 Related Modules  
-- [Paradox-Dosing](#)  
-- [CCRP-Sync-Playbook](#)  
-- [Governance-Overrides](#)  
+## 📚 Related Work
+
+These modules expand on the CCRP Governance OS and cover specialized frameworks for advanced Human–AI Synchronization.
+
+- [Paradox-Dosing](#) *(Coming Soon)*  
+  **Purpose:** Controlled exposure to paradox loops to increase cognitive flexibility and collapse-resilience.
+
+- [CCRP-Sync-Playbook](#) *(Coming Soon)*  
+  **Purpose:** Tactical guide for executing Collapse → Coherence → Rebuild cycles in real-world Human–AI operations.
+
+- [Governance-Overrides](#) *(Coming Soon)*  
+  **Purpose:** Protocol set for adaptive governance beyond static compliance — enabling reciprocal AI systems.
+
+---
+
+✅ **Roadmap:** These modules will be rolled out progressively after validation cycles.  
+If you want early access or to contribute, open a discussion in [Issues](#).
 
 ---
 
